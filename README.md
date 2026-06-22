@@ -21,7 +21,7 @@ mohan_sai = {
     "education"   : "B.Tech CSE — KSRM College of Engineering (2026)",
     "cgpa"        : 7.75,
     "email"       : "mohankanna74@gmail.com"
-    "phone"       : "+91-063723785",             
+    "phone"       : "+91-9063723785",             
     "linkedin"    : "linkedin.com/in/mohan-kanna",
     "portfolio"   : "mohansai-portfolio.surge.sh",
     "targeting"   : ["Data Analyst", "BI Analyst", "Reporting Analyst"],
@@ -101,7 +101,6 @@ mohan_sai = {
 
 | Certification | Issuer | Status |
 |--------------|--------|--------|
-| 🏅 PL-300 — Power BI Data Analyst | Microsoft | ✅ Certified (2026) |
 | 🤖 AI-Based Object Detection | AIMERS | ✅ Internship Certified |
 | 📊 Data Analytics | Google / Coursera | ✅ Completed |
 
@@ -123,11 +122,11 @@ mohan_sai = {
 
 | Channel | Link |
 |---------|------|
-| 💼 LinkedIn | [linkedin.com/in/mohan-kanna](https://www.linkedin.com/in/mohan-kanna) |
+| 💼 LinkedIn | [linkedin.com/in/mohan-kanna](www.linkedin.com/in/mohan-kanna) |
 | 🌐 Portfolio | [mohansai-portfolio.surge.sh](https://mohansai-portfolio.surge.sh) |
 | 💻 GitHub | [github.com/mohankanna74-svg](https://github.com/mohankanna74-svg) |
-| 📧 Email | your.email@gmail.com |
-| 📞 Phone | +91-XXXXXXXXXX |
+| 📧 Email | your.mohankanna74@gmail.com |
+| 📞 Phone | +91-9063723785 |
 
 ---
 
